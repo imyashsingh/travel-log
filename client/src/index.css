@@ -103,3 +103,18 @@ li a:hover:not(.active) {
   background-color: #04AA6D;
 }
 
+.button1{
+  box-shadow: 0px 8px 15px rgba(252, 2, 2, 0.5);
+  background-color:rgb(252, 3, 3);
+  color:white;
+  padding:7px;
+  border:none;
+  font-size:1rem;
+  width:7vw;
+}
+.button1:hover {
+  background-color: #e5802e;
+  box-shadow: 0px 15px 20px rgba(229, 144, 46, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
